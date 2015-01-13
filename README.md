@@ -1,7 +1,7 @@
 # UniformCost_AI_py
 Uniform Cost Search Algorithm implemented in Python.  This is a school project for Artificial Intelligence. 
 
-There are 2 versions available.  Version "maynard_hw1_r1.py" is a NetworkX implementation that solves the problem with Dijkstra algorithm.  Version "maynard_hw1_r5.py" implements the Uniform-Cost Search (UCS) algorithm.  
+There are 2 versions available.  Version "maynard_hw1_r1.py" is a NetworkX implementation that solves the problem with Dijkstra algorithm.  Version "maynard_hw1_r5.py" implements the Uniform-Cost Search (UCS) algorithm. 
 
 The pseudo-code for the algorithm is as follows:
 
@@ -18,7 +18,5 @@ The pseudo-code for the algorithm is as follows:
 #         nodes into fringe according to their cost values
 #
 # References: 
-# Korzhova, Lecture 5, slide 16
+# Korzhova, Lecture 5
 # "Artificial Intelligence A Modern Approcah", Russell, Norvig
-
- 
